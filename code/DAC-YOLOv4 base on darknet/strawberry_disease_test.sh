@@ -1,1 +1,1 @@
-./darknet detector test ./strawberry_disease/sci/yolov4/strawberry_disease_type_3.data ./strawberry_disease/sci/yolov4/strawberry_disease_type_3_yolov4-custom.cfg ./strawberry_disease/sci/yolov4/backup/strawberry_disease_type_3_yolov4-custom_best.weights /home/yy/data/dataset/strawberry_disease/yolo/datasets/strawberry_disease/2_leaf_disease/sci-test/IMG_1919.JPG -i 0 -thresh 0.25
+./darknet detector test ./dac-yolov4/strawberry_disease.data ./dac-yolov4/dac-yolov4.cfg ./dac-yolov4/dac-yolov4.weights /dac-yolov4/test_img.jpg -i 0 -thresh 0.25

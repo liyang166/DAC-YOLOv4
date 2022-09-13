@@ -1,0 +1,7 @@
+classes= 3
+train  = /train.txt
+valid  = /val.txt
+names = /dac_yolov4/strawberry_disease.names
+backup = ./backup
+
+

@@ -5,7 +5,7 @@
 - **TensorRT:** [https://github.com/Tianxiaomo/pytorch-YOLOv4/](https://github.com/Tianxiaomo/pytorch-YOLOv4/)
 
 ## 2.Code
-### 1. DAC-YOLOv4-master
+### (1). DAC-YOLOv4-master
 - dac-yolov4 are .cfg, .names and .weights files 
 - You can run it by download the DAC-YOLOv4 base on darknet folder
 - CMake & build
@@ -13,7 +13,7 @@
 ./strawberry_disease_test.sh
 ```
 
-### 2.Xavier/Nano
+### (2).Xavier/Nano
 - Environment：
 ```
 Ubantu 18.04
